@@ -1,0 +1,15 @@
+void main(){
+        float a,b,c,d;
+        a=10;
+        b=20;
+        c=30;
+        d=c;
+            
+          if(a<=b){
+            printf("%f%d",d,c);
+          }
+           printf("Hello World");        
+           
+ 
+    getch();
+}
